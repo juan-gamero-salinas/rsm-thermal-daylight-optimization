@@ -7,4 +7,3 @@ Additionally, it also contains Rhino/Grasshopper simulation files for implementi
 ![](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization/blob/main/UDI_64runs.gif?raw=true)
 
 
-<iframe src="https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization/blob/main/3D_plot.html" width="800" height="600"></iframe>
