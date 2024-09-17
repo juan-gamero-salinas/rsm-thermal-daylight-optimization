@@ -4,4 +4,7 @@ This repository provides supplementary materials to reproduce the results outlin
 
 ![](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization/blob/main/UDI_64runs.gif?raw=true)
 
+## If you cite this work or repository
+Gamero-Salinas, J., & López-Fidalgo, J. (2024). Response Surface Methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance. *arXiv preprint*. DOI: [https://doi.org/10.48550/arXiv.2409.09093](https://doi.org/10.48550/arXiv.2409.09093)
+
 
