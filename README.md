@@ -2,7 +2,7 @@
 
 This repository provides supplementary materials to reproduce the results outlined in the research preprint, **Response Surface Methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance** (currently under review). 
 
-The methodology is detailed in the accompanying R Markdown and R script files. Access the preprint on arXiv [here](https://doi.org/10.48550/arXiv.2409.09093). 
+All code used in this study is provided as R Markdown and R script files within the repository.
 
 The repository is organized into the following folders:
 *	`rhino-grasshopper-honeybee-files`: Contains the `.gh script file` for running thermal comfort (indoor overheating hours, IOH) and daylight (useful daylight illuminance, UDI) simulations. It also includes:
