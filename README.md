@@ -1,6 +1,6 @@
 # rsm-thermal-daylight-optimization
 
-This repository provides supplementary materials to reproduce the results outlined in the research preprint, **Response Surface Methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance** (currently under review). 
+This repository provides supplementary materials to reproduce the results outlined in the research article, **Response Surface Methodology using desirability functions for multiobjective optimization to minimize indoor overheating hours and maximize useful daylight illuminance**, published in Scientific Reports (DOI: https://doi.org/10.1038/s41598-025-96376-x)
 
 All code used in this study is provided as R Markdown and R script files within the repository.
 
@@ -17,6 +17,8 @@ A `.csv file` with the fractional factorial design used to feed the Colibri comp
 ![](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization/blob/main/UDI_64runs.gif?raw=true)
 
 ## If you cite this work or repository
-Gamero-Salinas, J., & López-Fidalgo, J. (2024). Response Surface Methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance. *arXiv preprint*. DOI: [https://doi.org/10.48550/arXiv.2409.09093](https://doi.org/10.48550/arXiv.2409.09093)
+Gamero-Salinas, J., López-Fidalgo, J. Response Surface Methodology using desirability functions for multiobjective optimization to minimize indoor overheating hours and maximize useful daylight illuminance. Scientific Reports 15, 12173 (2025). [https://doi.org/10.1038/s41598-025-96376-x](https://doi.org/10.1038/s41598-025-96376-x)
+
+
 
 
